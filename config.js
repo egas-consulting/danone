@@ -439,7 +439,7 @@ var config = {
             hidden: false,
             title: '', // Consider adding a title if needed
             image: '', // Specify if there's a header image for the chapter
-            description: 'Fabrica noastră din București, renumită pentru tehnologia sa unică de „fermentare a iaurtului în pahar”, produce un portofoliu diversificat care include 12 mărci și peste 120 de sortimente. Utilizăm exclusiv lapte proaspăt, colectat de la fermierii români, garantând astfel calitatea și prospețimea care ne definesc produsele.',
+            description: 'Fabrica din București, renumită pentru tehnologia sa unică de „fermentare a iaurtului în pahar”, produce un portofoliu diversificat care include 12 mărci și peste 120 de sortimente. Utilizează exclusiv lapte proaspăt, colectat de la fermierii români, garantând astfel calitatea și prospețimea care definesc produsele.',
             overlayImage: 'scene8.gif',
             
             location: {
