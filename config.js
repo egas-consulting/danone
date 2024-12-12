@@ -10,7 +10,7 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: '<p style="text-align: center;"><img src="danone.png" alt="Image description" style="max-width: 200px; height: auto; display: block; margin: 0 auto;"></p>',
+    title: '<p style="text-align: center;"><img src="Danone.png" alt="danone" style="max-width: 200px; height: auto; display: block; margin: 0 auto;"></p>',
     subtitle: '<span style="font-family: \'Roboto\'; color: #ffffff; font-size: 2.2rem; font-weight: 500;">Danone România sărbătorește 25 de ani de productie pe piața locală',
 
     byline: '<a href="https://panorama.ro/author/panorama/" target="_blank" style="color:white;">Panorama - Conținut sponsorizat</a> <p> <img src="./scroll.png"> </p> <p> scroll </p> ',
